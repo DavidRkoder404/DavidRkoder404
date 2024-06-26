@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![banner](/home/david/proyectos/Git/rkoder404readme/banner.jpg)
 **David Garcia Profile**
 
 - 🔭 I’m currently working on ...
